@@ -2,7 +2,7 @@
     <img src="https://app.dreamslatam.com/img/Dreamscloud_beta_colored.webp" 
          width="40%" 
          align="left" 
-         style="margin-right: 15px; margin-bottom: 35px; margin-top: 15px;" />
+         style="margin-right: 15px; margin-bottom: 35px; margin-top: 15px;" /><br>
     <div style="display: inline-block;">
         <h2 style="display: inline-block; vertical-align: middle; margin-top: 0;">Dreams API</h2>
         <p>
@@ -123,7 +123,4 @@ Execute o Dreams API usando o seguinte comando:
 
 ```sh
 ❯ node index.js
-
-
----
 ```
